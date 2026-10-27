@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Power Timer
+Comment=Suspend, restart or shut down after a delay or at a set time
+Exec=power-timer
+Icon=system-shutdown
+Terminal=false
+Categories=Utility;System;

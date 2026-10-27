@@ -1,0 +1,2 @@
+#!/bin/sh
+exec python3 /usr/lib/power-timer/power_timer.py "$@"
